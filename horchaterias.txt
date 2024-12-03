@@ -1,0 +1,16 @@
+Nombre,Dirección,Teléfono,Horario,Latitud,Longitud
+Horchatería Santa Catalina,Plaza de Santa Catalina 6,963 91 23 79,Lunes a Domingo 08:15 - 21:30,39.473892,-0.376102
+Horchatería Daniel,Interior Mercado de Colón Cubo 4,963 51 98 91,Lunes a Domingo 12:00 - 22:00,39.468857,-0.368233
+Horchatería Dolz,Avenida Blasco Ibáñez 84,963 20 21 05,Lunes a Domingo 10:00 - 14:00 | 16:00 - 21:00,39.474514,-0.351444
+Horchatería Els Sariers,Calle Sarcet 6,963 69 38 79,Lunes a Domingo 16:00 - 21:30,39.49271,-0.3573
+L'Obrador de Bou,Avenida Mare Nostrum 7,963 45 12 34,Lunes a Viernes 15:00 - 21:00,39.4948,-0.3221
+Horchatería Panach,Avenida de la Horchata 19,963 25 30 40,Lunes a Domingo 09:00 - 01:00,39.49753,-0.34789
+Horchatería El Collado,Calle Ercilla 13,963 91 62 77,Lunes a Domingo 08:00 - 21:00,39.474892,-0.3762017
+Horchatería Fabián,Calle Ciscar 5,963 52 98 91,Lunes a Domingo 10:00 - 22:00,39.472047,-0.376009
+Horchatería Sequer lo Blanch,Camí Fondo 23,963 69 38 79,Lunes a Domingo 11:00 - 23:00,39.495829,-0.338132
+Horchatería Orxata i Més,Calle Xàtiva 10,963 22 00 00,Lunes a Sábado 09:00 - 20:00,39.466348,-0.379823
+Horchatería Los Chufas,Plaza de la Reina 7,963 99 10 20,Lunes a Domingo 10:00 - 22:00,39.473532,-0.376125
+Horchatería Artesanal Valencia,Avenida del Puerto 11,963 25 12 00,Lunes a Domingo 09:30 - 22:00,39.462506,-0.348207
+Horchatería Velluters,Calle de Guillem de Castro 78,963 69 99 88,Lunes a Domingo 09:00 - 21:00,39.47086,-0.385432
+Horchatería del Carmen,Plaza del Carmen 5,963 11 88 99,Lunes a Domingo 10:00 - 22:30,39.479873,-0.378247
+Horchatería Turia,Gran Vía del Marqués del Turia 25,963 22 55 11,Lunes a Domingo 10:00 - 23:00,39.463849,-0.374785
