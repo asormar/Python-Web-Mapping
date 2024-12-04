@@ -31,7 +31,7 @@ def decidir_color(numero):
     
 
 # CAPA DE MARCADORES
-fgh= folium.FeatureGroup(name= "Horchaterías")
+fgh= folium.FeatureGroup(name= "Horchaterías", pane='top')
 
 for nombre in dic_coordenadas:
     iframe = folium.IFrame(html=html % (nombre, nombre, dic_coordenadas[nombre][-1]), width=200, height=100)
@@ -39,13 +39,14 @@ for nombre in dic_coordenadas:
 
 
 # CAPA DE ZONAS
-fgz= folium.FeatureGroup(name= "Zonas y Población")
+fgz= folium.FeatureGroup(name= "Zonas y Población", pane='bottom')
 
 # VAMOS A AÑADIR POLÍGONOS PARA DIFERENCIAR FRONTERAS DE PAÍSES
 fgz.add_child(folium.GeoJson(data=open("world.json","r", encoding= "utf-8-sig").read(), 
 style_function= lambda x: {"fillColor":"cyan" if x["properties"]["POP2005"]<10000000
 else "blue" if 10000000 <= x["properties"]["POP2005"] < 20000000
-else "yellow"}))
+else "yellow"},
+interactive=False)) # Le quito la interactividad para poder clicar en las horchaterias con la capa puesta
 
 
 
